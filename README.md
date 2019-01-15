@@ -16,3 +16,22 @@ This workshop on Github will introduce participants to source control and best p
 ## References
 
 * Please reference the PPT used for this workshop: 
+
+## What we’ll cover:
+
+### PART 1: Introduction: 
+* The whys and hows of source control
+* Review GitHub basics
+* Take a look at the Github landscape
+* Review GitHub best practices
+
+### PART 2: Implementation
+* Create a GitHub account
+* Choose terminal or GUI
+* Create a repository
+* Make changes to the codebase and commit them to the repo
+
+### PART 3: Advanced topics: 
+* Collaborating with others: Clone repository (repo) from Github
+* Learn to handle large files with GitHub LFS (Large File Storage)
+* Handle merge conflicts
