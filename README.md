@@ -9,7 +9,7 @@ This workshop on Github will introduce participants to source control and best p
 
 ### Before the workshop, you will need to install:
 
-1) GitHub Desktop(this will install Git on your commputer): https://desktop.github.com/
+1) GitHub Desktop(this will install Git on your computer): https://desktop.github.com/
 2) SublimeText3(or any other text editor): https://www.sublimetext.com/3
 3) GitHub LFS Extension: https://git-lfs.github.com/
 
