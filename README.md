@@ -25,13 +25,13 @@ In general, free free to follow the default settings during the Git installation
 
 * (1/2)Install Git components on your desktop for easy access to Git Bash, as well as Git LFS (important for Step 4 (below)):
 
-![](https://github.com/alexfigtree/reality-virtually-hackathon/blob/master/git_components_lfs.png)
+![](https://github.com/alexfigtree/reality-virtually-hackathon/blob/master/images/git_components_lfs.png)
 
 
 
 * (2/2)Install Git Bash (i.e, use MinTTY) if you've never used a Command Prompt(Windows) or Terminal(Mac) before:
 
-![](https://github.com/alexfigtree/reality-virtually-hackathon/blob/master/MinTTY.png)
+![](https://github.com/alexfigtree/reality-virtually-hackathon/blob/master/images/MinTTY.png)
   
  
  
