@@ -1,0 +1,13 @@
+Hello!  Welcome to the GitHub Workshop at the MIT
+Reality Virtually Hackathon.
+
+Please put your name on the list below to show everyone
+that you can contribute to a shared repository!
+
+Instructors:
+- Alex Higuera
+- Dmitri Zagidulin
+
+
+Attendees:
+- <YOUR NAME HERE>
