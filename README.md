@@ -38,6 +38,8 @@ In general, free free to follow the default settings during the Git installation
 ### 2) Do you feel comfortable using the Command Prompt (Windows) or Terminal (Mac)?  
 If not, download GitHub Desktop: https://desktop.github.com/
 
+Reference guide here: https://help.github.com/desktop/guides/getting-started-with-github-desktop/installing-github-desktop/
+
 You will use GitHub Desktop in conjunction with Git Bash(downloaded in Step 1) for Part 3 of this workshop.
 
 
