@@ -11,3 +11,4 @@ Instructors:
 
 Attendees:
 - <YOUR NAME HERE>
+- Nick Savarese
